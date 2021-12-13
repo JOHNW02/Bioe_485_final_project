@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.csv
+X
+*.ckpt
+*.pkl
+*.png
+*.zip
+archive/
+new_gradcam_results/
+to_canvas/
